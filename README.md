@@ -1,4 +1,4 @@
-# chintzz
+# Flutter Dynamic Tabbar using Mysql1 database
 
 A new Flutter project.
 
